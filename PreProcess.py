@@ -1,4 +1,4 @@
-from nltk.corpus import stopwords
+from nltk.corpus import stopword
 from nltk.tokenize import word_tokenize
 from nltk.stem.porter import PorterStemmer;
 import os
